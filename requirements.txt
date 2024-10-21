@@ -1,0 +1,11 @@
+torch==2.0.1+cu118
+matplotlib==3.7.1
+numpy==1.25.0
+torchvision==0.15.2+cu118
+pretrainedmodels==0.7.4
+opencv-python==4.8.0
+pandas==1.5.3
+Pillow==9.4.0
+scikit-learn==1.5.1
+PyYAML==6.0
+tqdm==4.65.0
