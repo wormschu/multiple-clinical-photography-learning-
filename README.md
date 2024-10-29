@@ -9,7 +9,7 @@
 
 4. Consider the example below, where there are two image files per patient for a total of two patients. As shown in the file name format, '1_20240101_1.JPG' indicates that the pt_num is 1, taken on 20240101 (the date), with a file_num of 1. Likewise, '1_20240101_2.JPG' indicates pt_num 1, taken on the same date, with a file_num of 2. Any file naming format is acceptable, but please organize files in a way that supports the use of multiple clinical photographs.
 
-![Example of images](./Example of images.jpg)
+![Example of images](./Example of images.JPG)
 
 5. You should name the JSON file for the Train dataset as "instancelearning_Train.json" (also create the JSON files for the Validation and Test datasets).
 
